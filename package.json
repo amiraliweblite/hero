@@ -9,6 +9,9 @@
   "dependencies": {
     "express": "^4.15.2"
   },
+  "engines": {
+    "node": "8.9.4"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC"
